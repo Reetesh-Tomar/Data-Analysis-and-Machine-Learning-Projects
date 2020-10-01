@@ -1,7 +1,7 @@
 ![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)
 ![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
-
+# ML is a fun 
 # Randy Olson's data analysis and machine learning projects
 
 © 2016 - current, Randal S. Olson
@@ -32,7 +32,7 @@ for any purpose, even commercially.
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 Under the following terms:
-
+#ML is great for python
 * **Attribution**—You must give appropriate credit (mentioning that your work is derived from work that is © Randal S. Olson and, where practical, linking to http://www.randalolson.com/), provide a [link to the license](https://creativecommons.org/licenses/by/4.0/), and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 **No additional restrictions**—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
